@@ -1,0 +1,26 @@
+
+}
+p
+{
+	margin: 50px
+
+
+}
+#conteneur
+{
+	display: flex;
+	justify-content: flex-end;
+	
+
+}
+body
+{
+	text-align: center;
+}
+
+#footer 
+{
+	display: flex;
+	justify-content: space-between;
+   
+}
